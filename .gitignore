@@ -1,0 +1,10 @@
+#ignore QMscriptsOld which is just an archive
+QMscriptsOld
+
+#dont commit mails from the past
+mails
+
+#dont commit my password
+config
+
+
