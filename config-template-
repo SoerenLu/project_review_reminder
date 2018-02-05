@@ -1,2 +1,3 @@
+#Rename this file to "config" and enter your password here. 
 password= ***your password***
-# I know this is unsecure...
+# I know this is unsecure. If there is a good way to not have the password publicly available, let me know.
